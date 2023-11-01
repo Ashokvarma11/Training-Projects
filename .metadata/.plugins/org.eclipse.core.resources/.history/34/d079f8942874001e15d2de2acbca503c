@@ -1,0 +1,9 @@
+package com.profile.beans;
+
+public class Account {
+	int Amount;
+	
+	int profile_id;
+	
+	
+}

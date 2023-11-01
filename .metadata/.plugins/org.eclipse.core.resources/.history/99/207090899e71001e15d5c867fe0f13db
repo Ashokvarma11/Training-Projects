@@ -1,0 +1,2 @@
+service.port=9092
+spring.application.name=admin-app
