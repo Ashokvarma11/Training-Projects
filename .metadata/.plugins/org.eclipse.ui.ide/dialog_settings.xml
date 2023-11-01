@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="NewWizardAction">
+	<section name="ExternalProjectImportWizard">
 	</section>
 	<section name="SmartImportWizard">
 		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
@@ -8,12 +8,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
-			<item value="C:\Users\admin\Downloads\config-server-demo.zip"/>
-			<item value="C:\Users\admin\Downloads\userprofile (2).zip"/>
-			<item value="C:\Users\admin\Downloads\userprofile.zip"/>
-			<item value="C:\Users\admin\Downloads\admin-service.zip"/>
-			<item value="C:\Users\admin\Downloads\service-discover-demo.zip"/>
-			<item value="C:\Users\admin\Documents\spring-boot-db.zip"/>
+			<item value="C:\Users\admin\Desktop\activities-repo\Groceries-Project-20231031T191704Z-001.zip"/>
+			<item value="C:\Users\admin\Downloads\finalproject.zip"/>
 		</list>
 	</section>
 </section>
